@@ -18,6 +18,26 @@ h1{
     font-size: 50px;
 }
 
+.textgrey{
+    color: grey;
+}
+
 .textblue{
     color: rgb(66, 169, 216);
+}
+
+.imgtim{
+    margin-top: 2%;
+}
+
+.imginside{
+    width: 200px;
+    height: 100px;
+    background-image: url(/img/monitor.jpg);
+}
+
+.imginside1{
+    width: 100%;
+    height: 100%;
+    
 }
