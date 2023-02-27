@@ -13,4 +13,11 @@ header{
     margin-left: 2%;
     margin-top: 3%;
 }
-   
+
+h1{
+    font-size: 50px;
+}
+
+.textblue{
+    color: rgb(66, 169, 216);
+}
