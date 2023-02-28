@@ -10,17 +10,21 @@ header{
 }
 
 h1{
-    font-size: 50px;
+    font-size: 38px;
+    margin-bottom: 5px;
 }
 
-.textgrey{
+#subtitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
     color: grey;
+    margin: 0px;
 }
 
-.textblue{
-    color: rgb(66, 169, 216);
+#subtitle a{
+    color: #30AFE7;
+    text-decoration: none;
 }
-
 .imgtim{
     margin-top: 2%;
 }
